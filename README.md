@@ -4,13 +4,13 @@ This repo contains some prototype utilities for various Illumina Basespace produ
 
 ## Table of Contents
 * **Utilities**
-  * [FHIR to Clarity Sample XML Translator (F2C)](#fhir-to-clarity-sample-xml)
+  * [FHIR to Clarity Sample XML Translator (f2c)](#fhir-to-clarity-sample-xml)
     * [Basic Usage](#basic-usage)
     * [Running the Examples](#running-the-examples)
     * [How it works](#how-it-works)
 * [Project Setup](#project-setup)
 
-# FHIR to Clarity Sample XML
+# FHIR to Clarity Sample XML (f2c)
 This is the prototype for a utility that allows translation, translation and connection of raw HL7 data to third-party data sources such as Epic.
 
 ## Basic Usage
