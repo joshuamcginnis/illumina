@@ -66,13 +66,13 @@ For now, this project only supports mapping `<ServiceRequests`> to Clarity Sampl
 
 FHIR maps are python objects which map `<ServiceRequest>` objects to python objects via xpath.
 
-See: [src\fhir_maps\service_request_map.py](src\fhir_maps\service_request_map.py)
+See: [src\fhir_maps\service_request_map.py](src/fhir_maps/service_request_map.py)
 
 These maps are composable and can be used to construct and confine mappings with strict types between FHIR elements to pythonic objects.
 
 **Clarity XML Builder**
 
-See: [src\clarity_xml_builder.py](src\clarity_xml_builder.py)
+See: [src\clarity_xml_builder.py](src/clarity_xml_builder.py)
 This is the main class for building the sample request xml by mapping the fields defined in FHIR Maps to the Clarity LMS Service creation fields.
 
 ## Project Setup
