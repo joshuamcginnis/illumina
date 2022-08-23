@@ -4,7 +4,7 @@ This repo contains some prototype utilities for various Illumina Basespace produ
 
 ## Table of Contents
 * **Utilities**
-  * [FHIR to Clarity Sample XML](#fhir-to-clarity-sample-xml)
+  * [FHIR to Clarity Sample XML Translator (F2C)](#fhir-to-clarity-sample-xml)
     * [Basic Usage](#basic-usage)
     * [Running the Examples](#running-the-examples)
     * [How it works](#how-it-works)
